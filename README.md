@@ -26,3 +26,28 @@ o Climate change signals: (see Maynooth study: The emergence of a climate change
 Use a Jupyter notebook for your analysis and track your progress using GitHub.
 
 Use an academic referencing style
+
+
+
+
+-----------------
+## Instructions:
+
+### Jupyter Notebook:
+- Ensure you have Python installed on your machine.
+- Install Jupyter Notebook using `pip install jupyter` if not already installed.
+- Clone or download this repository to your local machine.
+- Open a terminal and navigate to the project's root directory.
+- Run jupyter notebook to launch the Jupyter Notebook server.
+- Access the project.ipynb file and execute each cell sequentially to explore the analyses.
+
+### Datasets:
+The `datasets` folder contains all the necessary datasets used in the project.
+Ensure the datasets are accessible to the Jupyter Notebook.
+If required, update the file paths in the notebook accordingly.
+
+`project.ipynb`: Jupyter Notebook containing the code and analyses.
+
+`datasets/`: Folder containing the relevant datasets
+
+`fused_datasets/`: Contain fused dataset of CH4, CO2, temperature anomalies for 800kyr-present
